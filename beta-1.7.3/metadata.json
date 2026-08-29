@@ -1,1 +1,9 @@
-
+{
+  "version": "Beta 1.7.3",
+  "type": "Official Beta",
+  "platform": "Java Edition",
+  "status": "Verified",
+  "archiveId": "MCA-B173",
+  "description": "An archived Minecraft Beta build documented and preserved as part of the Minecraft Archive.",
+  "releaseDate": "2011-07-08"
+}
